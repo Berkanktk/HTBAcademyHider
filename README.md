@@ -1,4 +1,8 @@
 # HTBAcademyHider
-A little JS script that hides finished modules on HackTheBox Academy by removing the div tags that contains the modules.
+![Screenshot](images/Without_extension.png)
+![Screenshot](images/With_extension.png)
 
-Used with [Javascript Injector for Chrome](https://chrome.google.com/webstore/detail/inject-javascript-synced/aechnpkbeoilkginaangjabdhcknecck)
+This extension will let you remove finished modules from Hack The Box Acedemy.
+
+# Installation
+Download it through Chrome Webshop [here]().
