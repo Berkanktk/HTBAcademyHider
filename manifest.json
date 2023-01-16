@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "HTBAcedemyHider",
+    "description": "Hide finished modules.",
+    "version": "1.0",
+    "author": "Berkan Kütük",
+    "icons": {
+        "16": "/images/HTB16.png",
+        "48": "/images/HTB48.png",
+        "128": "/images/HTB128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://academy.hackthebox.com/modules"
+            ],
+            "js": [
+                "app.js"
+            ]
+        }
+    ]
+}
