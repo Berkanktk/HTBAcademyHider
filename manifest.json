@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "HTBAcedemyHider",
+    "name": "HTBAcademyHider",
     "description": "Hide finished modules.",
-    "version": "1.0",
+    "version": "1.1",
     "author": "Berkan Kütük",
     "icons": {
         "16": "/images/HTB16.png",
